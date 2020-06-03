@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# data
+/assignment/pa1/pa1-skeleton/pa1-data
+/assignment/pa1/pa1-skeleton/toy-data
